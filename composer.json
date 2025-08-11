@@ -1,5 +1,5 @@
 {
-    "name": "mageprince/module-log-viewer",
+    "name": "bizcommerce/magento2-logviewer",
     "description": "Magento 2 Log Viewer Extension",
     "type": "magento2-module",
     "version": "1.0.1",
